@@ -9,7 +9,7 @@
 ###
 
 <div style="display: flex; align-items: center; gap: 12px;">
-  <img src="https://devicon-website.vercel.app/api/c/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/c/original.svg" height="30" alt="C logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
